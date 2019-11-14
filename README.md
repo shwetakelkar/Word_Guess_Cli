@@ -23,5 +23,11 @@ Else it ends the game if user coudln't guess the word with given chances(length 
 2. chalk
 
 ### import files
+1. letter.js into word.js
+2. word.js into index.js
+
+## use-case
+this program is made for one word using the same concept we can use array of words and continue the game.
+
 
 
